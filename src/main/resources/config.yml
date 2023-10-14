@@ -1,0 +1,12 @@
+# 入服信息，{LoginOrRegister}为登录或者注册的占位符
+Join: "&6欢迎来到Hypiworld服务器！你需要先&b{LoginOrRegister}&6，看你前面的牌子就好啦！"
+
+# 回声洞编辑,Interval以秒为单位
+Echo:
+  Interval: 30
+  Messages:
+    - "&2Test1"
+    - "&3Test2"
+
+# 不要编辑
+Version: 1
